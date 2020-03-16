@@ -23,6 +23,10 @@ if __name__ == "__main__":
     # ... and assuming the order of salads may vary,
     # ... "print" the name of the salad whose identifier is equal to 3 (i.e. "Waldorf"):
 
+print(str(salads["id"]["3"]))
+
+
+
 
 
     #
