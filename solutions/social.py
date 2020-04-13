@@ -51,6 +51,9 @@ if __name__ == "__main__":
     #
     # "Print" the screen name of the user who authored the first tweet (i.e. "sandwhoa"):
 
+print("Question A..")
+print(tweets[0]["user"]["screen_name"])
+
 
     #
     # QUESTION B
